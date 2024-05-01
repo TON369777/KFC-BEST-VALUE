@@ -59,6 +59,8 @@ Dirty bulkers looking to focus on kilojoules would be interested in the '$4.95 H
 
 ![image](https://github.com/TON369777/KFC-BEST-VALUE/assets/156875448/db6e0bfc-6482-4c19-be6b-16b006996846)
 
+Dirty bullkers looking to strike a balance between high protein price ratio and high energy price ratio would be interested in the 'Cheap as Chips' which has ~8g Protein per $ and ~670 kJ per $.
+
 ## Budgeting
 
 The PowerBI dashboard comes with a budgeting slicer to also consider the user's budget.
