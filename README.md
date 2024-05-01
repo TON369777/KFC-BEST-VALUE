@@ -24,7 +24,7 @@ Of interest is that during the scraping process, the program conveniently encoun
 ## Visualising Data
 
 Seaborn/ Matplotlib libraries were used to visualise the top 10 for best and least value for money offerings at KFC.
-Considerations combo and/or individual items considered:
+Considerations for if items were combos and/or individual were made:
 1) Top 10 and Bottom 10 for Protein Price Ratio
 2) Top 10 and Bottom 10 for Energy Price Ratio
 
